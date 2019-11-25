@@ -10,3 +10,6 @@ The backend is done using Node.js / Express.js and dependencies include: body-pa
 
 ### API Testing
 I used [Postman](https://getpostman.com) for API testing.
+
+### Authentication
+For the purpose of maintaining simplicity, API authentication has not been done. 
